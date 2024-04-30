@@ -7,6 +7,7 @@
 ## Designing Machine Learning Systems:
 1. https://www.youtube.com/watch?v=spFsPbDw7Lg&list=PLLm69KFEX6JD4fJ7ge8-WEDw3G4c_nzHs
 2. https://github.com/chiphuyen/dmls-book/tree/main
+3. https://huyenchip.com/machine-learning-systems-design/design-a-machine-learning-system.html
 
 ##  ML Book Ref
 1. https://github.com/ageron/handson-ml3
